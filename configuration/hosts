@@ -1,0 +1,8 @@
+# [router name]:[host name]:[rtr prefix advertised -- not used]:[host port on SWR address]:[router ip]:[host ip]
+
+ROUTER_HOST_PAIRS=(     "h1x2:h8x1:mccoy:192.168.8.2:192.168.1.2:192.168.8.1"
+                        "h4x2:h11x1:router3:192.168.11.2:192.168.4.2:192.168.11.1"
+                        "h2x2:h9x1:router1:192.168.9.2:192.168.2.2:192.168.9.1"
+                        "h3x2:h10x1:router2:192.168.10.2:192.168.3.2:192.168.10.1"
+                        "h5x2:h12x1:router4:192.168.12.2:192.168.5.2:192.168.12.1"
+                        "h6x2:h13x1:router5:192.168.13.2:192.168.6.2:192.168.13.1")
